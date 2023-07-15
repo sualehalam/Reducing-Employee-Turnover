@@ -6,5 +6,5 @@ You work for the human capital department of a large corporation. The Board is w
 
 The team needs to understand better the situation, which employees are more likely to leave, and why. Once it is clear what variables impact employee churn, you can present your findings along with your ideas on how to attack the problem.
 
-# The data
+# 💾 The data
 The department has assembled data on almost 10,000 employees. The team used information from exit interviews, performance reviews, and employee records.
