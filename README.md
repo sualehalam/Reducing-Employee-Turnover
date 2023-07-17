@@ -2,9 +2,7 @@
 Analyze employee churn. Find out why employees are leaving the company, and help reduce the employee turnover rate.
 
 # 📖 Background
-You work for the human capital department of a large corporation. The Board is worried about the relatively high turnover, and your team must look into ways to reduce the number of employees leaving the company.
-
-The team needs to understand better the situation, which employees are more likely to leave, and why. Once it is clear what variables impact employee churn, you can present your findings along with your ideas on how to attack the problem.
+You work for the human capital department of a large corporation. The Board is worried about the relatively high turnover, and your team must look into ways to reduce the number of employees leaving the company. The team needs to understand better the situation, which employees are more likely to leave, and why. Once it is clear what variables impact employee churn, you can present your findings along with your ideas on how to attack the problem.
 
 # 💾 The data
 The department has assembled data on almost 10,000 employees. The team used information from exit interviews, performance reviews, and employee records.
@@ -18,3 +16,10 @@ The department has assembled data on almost 10,000 employees. The team used info
 * "satisfaction" - a measure of employee satisfaction from surveys.
 * "avg_hrs_month" - the average hours the employee worked in a month.
 * "left" - "yes" if the employee ended up leaving, "no" otherwise.
+
+# 💪 Competition challenge
+Create a report that covers the following:
+
+1. Which department has the highest employee turnover? Which one has the lowest?
+2. Investigate which variables seem to be better predictors of employee departure.
+3. What recommendations would you make regarding ways to reduce employee turnover?
