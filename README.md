@@ -18,7 +18,6 @@ The department has assembled data on almost 10,000 employees. The team used info
 * "left" - "yes" if the employee ended up leaving, "no" otherwise.
 
 # 💪 Competition challenge
-Create a report that covers the following:
 
 1. _**Which department has the highest employee turnover? Which one has the lowest?**_
 2. _**Investigate which variables seem to be better predictors of employee departure.**_
