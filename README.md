@@ -22,3 +22,8 @@ The department has assembled data on almost 10,000 employees. The team used info
 1. _**Which department has the highest employee turnover? Which one has the lowest?**_
 2. _**Investigate which variables seem to be better predictors of employee departure.**_
 3. _**What recommendations would you make regarding ways to reduce employee turnover?**_
+
+# Authors
+
+* **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam) 
+
