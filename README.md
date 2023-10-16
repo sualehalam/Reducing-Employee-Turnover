@@ -17,7 +17,7 @@ The department has assembled data on almost 10,000 employees. The team used info
 * "avg_hrs_month" - the average hours the employee worked in a month.
 * "left" - "yes" if the employee ended up leaving, "no" otherwise.
 
-# 💪 Competition challenge
+# 💪 Competition Challenge
 
 1. _**Which department has the highest employee turnover? Which one has the lowest?**_
 2. _**Investigate which variables seem to be better predictors of employee departure.**_
