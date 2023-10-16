@@ -11,7 +11,7 @@ The department has assembled data on almost 10,000 employees. The team used info
 * "promoted" - 1 if the employee was promoted in the previous 24 months, 0 otherwise.
 * "review" - the composite score the employee received in their last evaluation.
 * "projects" - how many projects the employee is involved in.
-* "salary" - for confidentiality reasons, salary comes in three tiers: low, medium, high.
+* "salary" - for confidentiality reasons, salary comes in three tiers: low, medium, and high.
 * "tenure" - how many years the employee has been at the company.
 * "satisfaction" - a measure of employee satisfaction from surveys.
 * "avg_hrs_month" - the average hours the employee worked in a month.
