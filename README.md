@@ -1,4 +1,4 @@
-# Reducing Employee Turnover
+# Reducing Employees Turnover
 **Analyze employee churn. Find out why employees are leaving the company, and help reduce the employee turnover rate.**
 
 # 📖 Background
