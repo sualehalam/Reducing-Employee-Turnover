@@ -1,5 +1,6 @@
 # Reducing Employee Turnover
-**Analyze employee churn. Find out why employees are leaving the company, and help reduce the employee turnover rate.**
+
+#### **Analyze Employee Churn: Find out why employees are leaving the company, and help reduce the employee turnover rate.**
 
 <img width="1035" height="690" alt="image" src="https://github.com/user-attachments/assets/c32c491a-65f9-4ecc-b2fc-c4afe3a39dcd" />
 
